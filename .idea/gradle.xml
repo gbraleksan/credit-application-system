@@ -4,11 +4,11 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/credit-application-system-01-classes_camada_de_persistencia/credit-request-system" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/credit-request-system" />
         <option name="gradleJvm" value="corretto-19" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/credit-application-system-01-classes_camada_de_persistencia/credit-request-system" />
+            <option value="$PROJECT_DIR$/credit-request-system" />
           </set>
         </option>
       </GradleProjectSettings>
